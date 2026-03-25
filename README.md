@@ -29,15 +29,15 @@ Replacing a weak commercial router with a custom-built Linux box using a 5G upli
 
 ## Hardware (decided)
 
-See [docs/hardware.md](docs/hardware.md)
+See [hardware.md](hardware/README.md)
 
 ## Progress
 
-See [docs/progress.md](docs/progress.md)
+See [progress.md](progress/README.md)
 
 ## Docs
 
-- [Hardware research & decisions](docs/hardware.md)
-- [Software stack](docs/software.md)
-- [Progress log](docs/progress.md)
+- [Hardware research & decisions](hardware/README.md)
+- [Software stack](software/README.md)
+- [Progress log](progress/README.md)
 # homebrew-hop
